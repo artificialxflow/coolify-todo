@@ -1,0 +1,27 @@
+.todoList {
+  margin-top: 1rem;
+}
+
+.loading {
+  text-align: center;
+  padding: 2rem;
+  color: #6b7280;
+}
+
+.error {
+  text-align: center;
+  padding: 2rem;
+  color: #ef4444;
+  background-color: #fee2e2;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+}
+
+.empty {
+  text-align: center;
+  padding: 2rem;
+  color: #6b7280;
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+} 
